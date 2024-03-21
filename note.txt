@@ -1,0 +1,4 @@
+export çalışcak projeler için açılan bir module. export etmek için bir js dosyası açılır. 
+içine function, asyn function, dizi vb... atılır.
+
+import çalışcak proje ise , import edilen modülü kullanmak için bu dosya içine yazılır.
